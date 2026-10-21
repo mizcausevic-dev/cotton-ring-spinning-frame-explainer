@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/cotton-ring-spinning-frame-explainer/
 
+Repository: https://github.com/mizcausevic-dev/cotton-ring-spinning-frame-explainer
+
 ## What this is
 
 An interactive anatomy plate for Cotton Ring-Spinning Frame. Play, scrub, or jump the five stages. The same frame always draws the same picture.
